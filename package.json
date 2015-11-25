@@ -1,0 +1,30 @@
+{
+  "name": "vietnamese-unicode-toolkit",
+  "version": "0.0.1",
+  "description": "A toolkits to convert all charaters into unicode in Vietnamese",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thangngoc89/vietnamese-unicode-toolkit.git"
+  },
+  "keywords": [
+    "unicode",
+    "toolkits",
+    "unicode",
+    "compound",
+    "vietnamese"
+  ],
+  "author": "Khoa Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thangngoc89/vietnamese-unicode-toolkits/issues"
+  },
+  "homepage": "https://github.com/thangngoc89/vietnamese-unicode-toolkits#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
