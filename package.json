@@ -1,6 +1,6 @@
 {
   "name": "vietnamese-unicode-toolkit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A toolkits to convert all charaters into unicode in Vietnamese",
   "main": "src/index.js",
   "scripts": {
